@@ -1,6 +1,6 @@
 # proquota
 
-A new Flutter project.
+Proquota is a mobile app that allows user buy data plan and control their data usuage.
 
 ## Getting Started
 
